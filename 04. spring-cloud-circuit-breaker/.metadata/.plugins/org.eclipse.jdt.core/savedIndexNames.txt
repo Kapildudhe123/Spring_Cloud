@@ -1,0 +1,27 @@
+INDEX VERSION 1.131+C:\Users\hp\Desktop\Spring Cloud\spring-cloud-case-study-main\spring-cloud-case-study-main\04. spring-cloud-circuit-breaker\.metadata\.plugins\org.eclipse.jdt.core
+1427464272.index
+3120250875.index
+2227838403.index
+3090402374.index
+3176478582.index
+1738953871.index
+3041182544.index
+821608647.index
+2103955684.index
+1093778743.index
+2661031662.index
+2281710235.index
+3499414457.index
+2590110146.index
+3264804928.index
+1448965666.index
+1372830356.index
+1911260958.index
+2851180925.index
+3592270094.index
+1161838568.index
+4248634062.index
+1050042363.index
+2693510040.index
+4217216203.index
+1132331595.index

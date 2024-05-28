@@ -1,0 +1,11 @@
+INDEX VERSION 1.4+C:\Users\hp\Desktop\Spring Cloud\spring-cloud-case-study-main\spring-cloud-case-study-main\06. spring-cloud-security\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3393582486.index
+3120250875.index
+2852885842.index
+2227838403.index
+2791121579.index
+3726531533.index
+2851180925.index
+1050042363.index
+1608364011.index
+2673434620.index
